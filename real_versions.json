@@ -315,7 +315,10 @@
   "1.16": {
     "snapshot": [
       20200514
-    ]
+    ],
+    "stable": [],
+    "snapshot_nodoc": [],
+    "stable_nodoc": []
   },
   "1.14": {
     "snapshot": [
@@ -1806,12 +1809,18 @@
   "1.16.4": {
     "snapshot": [
       20210309
-    ]
+    ],
+    "stable": [],
+    "snapshot_nodoc": [],
+    "stable_nodoc": []
   },
   "1.16.5": {
     "snapshot": [
       20210309
-    ]
+    ],
+    "stable": [],
+    "snapshot_nodoc": [],
+    "stable_nodoc": []
   },
   "1.14.2": {
     "snapshot": [
@@ -2495,6 +2504,7 @@
       20211107,
       20211108
     ],
+    "stable": [],
     "snapshot_nodoc": [
       20200120,
       20200121,
@@ -3108,7 +3118,8 @@
       20211103,
       20211104,
       20211105
-    ]
+    ],
+    "stable_nodoc": []
   },
   "1.14.3": {
     "snapshot": [
@@ -3545,7 +3556,10 @@
       20200707,
       20200723,
       20200820
-    ]
+    ],
+    "stable": [],
+    "snapshot_nodoc": [],
+    "stable_nodoc": []
   },
   "1.14.4": {
     "snapshot": [
@@ -3564,7 +3578,10 @@
   "1.16.2": {
     "snapshot": [
       20200916
-    ]
+    ],
+    "stable": [],
+    "snapshot_nodoc": [],
+    "stable_nodoc": []
   },
   "1.8": {
     "snapshot": [
@@ -4448,7 +4465,10 @@
     "snapshot": [
       20200514,
       20201028
-    ]
+    ],
+    "stable": [],
+    "snapshot_nodoc": [],
+    "stable_nodoc": []
   },
   "1.9": {
     "snapshot": [
